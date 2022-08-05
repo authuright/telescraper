@@ -25,6 +25,19 @@
 
 # How to use
 
+* Install Python3.8
+
+* Install Git
+
+* Install Python pip
+
+[Download get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+
+Config (C:\Users\kazi\AppData\Local\Programs\Python\Python310)
+`python get-pip.py`
+
+<p>Set up 
+
 <b>Suggestion: It is better to add by ID because if you add by username only users having usernames will be added. Moreover, it is slow</b>
 
 * Install Requirements
